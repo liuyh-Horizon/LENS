@@ -1,0 +1,18 @@
+[2026-08-19T23:11:07] NEW RUN | variant=direct_mlp_attention | device=cuda:0 | lr=7.500e-05 | epochs=50
+[2026-08-19T23:11:07] Trainable=5,941,074/5,941,074 (100.0000%)
+[2026-08-19T23:58:32] Epoch 001/50 | lr=7.493e-05 | train loss=2.0430 top1=0.5421 | val loss=1.4297 top1=0.6472 top5=0.8642 | train time=46m 44.9s | val time=40.2s | max grad norm=2.109e+01
+[2026-08-20T00:45:51] Epoch 002/50 | lr=7.470e-05 | train loss=1.5473 top1=0.6313 | val loss=1.3412 top1=0.6670 top5=0.8770 | train time=46m 38.2s | val time=40.2s | max grad norm=8.629e+02
+[2026-08-20T01:33:09] Epoch 003/50 | lr=7.434e-05 | train loss=1.4589 top1=0.6503 | val loss=1.2911 top1=0.6766 top5=0.8843 | train time=46m 37.7s | val time=40.2s | max grad norm=1.094e+02
+[2026-08-20T02:20:28] Epoch 004/50 | lr=7.382e-05 | train loss=1.4100 top1=0.6597 | val loss=1.2734 top1=0.6791 top5=0.8849 | train time=46m 38.7s | val time=40.1s | max grad norm=2.135e+01
+[2026-08-20T03:07:47] Epoch 005/50 | lr=7.316e-05 | train loss=1.3753 top1=0.6661 | val loss=1.2593 top1=0.6835 top5=0.8868 | train time=46m 38.7s | val time=40.2s | max grad norm=1.757e+01
+[2026-08-20T03:55:05] Epoch 006/50 | lr=7.237e-05 | train loss=1.3465 top1=0.6729 | val loss=1.2328 top1=0.6877 top5=0.8915 | train time=46m 37.3s | val time=40.2s | max grad norm=1.695e+01
+[2026-08-20T04:42:23] Epoch 007/50 | lr=7.143e-05 | train loss=1.3245 top1=0.6771 | val loss=1.2371 top1=0.6886 top5=0.8911 | train time=46m 37.7s | val time=40.2s | max grad norm=1.769e+01
+[2026-08-20T05:29:44] Epoch 008/50 | lr=7.036e-05 | train loss=1.3017 top1=0.6819 | val loss=1.2214 top1=0.6921 top5=0.8921 | train time=46m 41.1s | val time=40.2s | max grad norm=1.774e+01
+[2026-08-20T06:17:05] Epoch 009/50 | lr=6.916e-05 | train loss=1.2848 top1=0.6854 | val loss=1.2065 top1=0.6939 top5=0.8946 | train time=46m 40.0s | val time=40.1s | max grad norm=1.750e+01
+[2026-08-20T07:04:23] Epoch 010/50 | lr=6.784e-05 | train loss=1.2685 top1=0.6887 | val loss=1.2267 top1=0.6937 top5=0.8929 | train time=46m 37.6s | val time=40.2s | max grad norm=1.558e+01
+[2026-08-20T07:51:40] Epoch 011/50 | lr=6.639e-05 | train loss=1.2532 top1=0.6919 | val loss=1.2089 top1=0.6960 top5=0.8939 | train time=46m 37.5s | val time=40.2s | max grad norm=1.875e+01
+[2026-08-20T08:38:58] Epoch 012/50 | lr=6.484e-05 | train loss=1.2358 top1=0.6951 | val loss=1.2098 top1=0.6975 top5=0.8958 | train time=46m 37.4s | val time=40.2s | max grad norm=1.697e+01
+[2026-08-20T09:26:16] Epoch 013/50 | lr=6.317e-05 | train loss=1.2230 top1=0.6985 | val loss=1.2047 top1=0.6965 top5=0.8969 | train time=46m 37.7s | val time=40.2s | max grad norm=1.977e+01
+[2026-08-20T10:13:34] Epoch 014/50 | lr=6.140e-05 | train loss=1.2071 top1=0.7017 | val loss=1.2173 top1=0.6972 top5=0.8960 | train time=46m 37.6s | val time=40.2s | max grad norm=1.783e+01
+[2026-08-20T11:03:13] Epoch 015/50 | lr=5.954e-05 | train loss=1.1959 top1=0.7047 | val loss=1.2064 top1=0.7005 top5=0.8971 | train time=48m 34.3s | val time=1m 4.0s | max grad norm=1.645e+01
+[2026-08-20T12:18:56] Epoch 016/50 | lr=5.759e-05 | train loss=1.1831 top1=0.7070 | val loss=1.1966 top1=0.7005 top5=0.8976 | train time=1h 14m 38.7s | val time=1m 4.7s | max grad norm=1.559e+01

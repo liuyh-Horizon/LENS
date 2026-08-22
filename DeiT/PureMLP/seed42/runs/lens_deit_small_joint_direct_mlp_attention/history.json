@@ -1,0 +1,74 @@
+[
+  {
+    "epoch": 1,
+    "lr": 4.995066821070679e-05,
+    "train_loss": 7328.505601399308,
+    "train_top1": 0.24790089803157475,
+    "val_loss": 1.4454240233612061,
+    "val_top1": 0.64498,
+    "val_top5": 0.86406,
+    "train_time_sec": 5481.66703081876,
+    "val_time_sec": 77.6574253514409,
+    "max_finite_grad_norm_before_clipping": 61803917312.0
+  },
+  {
+    "epoch": 2,
+    "lr": 4.980286753286195e-05,
+    "train_loss": 1.2544348998416623,
+    "train_top1": 0.6954132006894485,
+    "val_loss": 1.1077826433944702,
+    "val_top1": 0.72026,
+    "val_top5": 0.90812,
+    "train_time_sec": 5483.544795453548,
+    "val_time_sec": 77.61767943203449,
+    "max_finite_grad_norm_before_clipping": 159.9207000732422
+  },
+  {
+    "epoch": 3,
+    "lr": 4.955718126821722e-05,
+    "train_loss": 1.047058514434752,
+    "train_top1": 0.7395630370703438,
+    "val_loss": 1.0665117485046387,
+    "val_top1": 0.73282,
+    "val_top5": 0.91556,
+    "train_time_sec": 5529.048787094653,
+    "val_time_sec": 78.86096580326557,
+    "max_finite_grad_norm_before_clipping": 9382.0869140625
+  },
+  {
+    "epoch": 4,
+    "lr": 4.9214579028215776e-05,
+    "train_loss": 0.9772832757420391,
+    "train_top1": 0.7551224645283773,
+    "val_loss": 1.0442257997894286,
+    "val_top1": 0.73802,
+    "val_top5": 0.91832,
+    "train_time_sec": 5525.33322134614,
+    "val_time_sec": 78.24956938624382,
+    "max_finite_grad_norm_before_clipping": 27877.349609375
+  },
+  {
+    "epoch": 5,
+    "lr": 4.877641290737884e-05,
+    "train_loss": 0.9319827166035307,
+    "train_top1": 0.7652292228717026,
+    "val_loss": 1.019307622642517,
+    "val_top1": 0.7418,
+    "val_top5": 0.92148,
+    "train_time_sec": 5521.972231574357,
+    "val_time_sec": 78.18556239455938,
+    "max_finite_grad_norm_before_clipping": 75.25459289550781
+  },
+  {
+    "epoch": 6,
+    "lr": 4.8244412147206284e-05,
+    "train_loss": 0.9003306269931565,
+    "train_top1": 0.7724234674760192,
+    "val_loss": 1.0266215230941773,
+    "val_top1": 0.74526,
+    "val_top5": 0.92064,
+    "train_time_sec": 5528.010761283338,
+    "val_time_sec": 78.22354532778263,
+    "max_finite_grad_norm_before_clipping": 27.93341636657715
+  }
+]
