@@ -1,11 +1,2 @@
-[2026-08-22T12:58:07] NEW RUN | variant=base_e | device=cuda:0 | lr=7.500e-05 | epochs=50
-[2026-08-22T12:58:07] Trainable=5,940,294/5,940,294 (100.0000%)
-[2026-08-22T13:15:28] Epoch 001/50 | lr=7.493e-05 | train loss=56998.9629 top1=0.5424 | val loss=1.5873 top1=0.6126 top5=0.8415 | train time=16m 48.8s | val time=31.8s | max grad norm=3.855e+11
-[2026-08-22T13:32:51] Epoch 002/50 | lr=7.470e-05 | train loss=18127.6120 top1=0.5912 | val loss=1.5435 top1=0.6230 top5=0.8492 | train time=16m 50.9s | val time=31.9s | max grad norm=6.128e+11
-[2026-08-22T13:50:11] Epoch 003/50 | lr=7.434e-05 | train loss=1.7021 top1=0.6000 | val loss=1.5246 top1=0.6242 top5=0.8506 | train time=16m 47.7s | val time=32.0s | max grad norm=1.982e+02
-[2026-08-22T14:07:28] Epoch 004/50 | lr=7.382e-05 | train loss=1.6732 top1=0.6057 | val loss=1.5140 top1=0.6272 top5=0.8515 | train time=16m 46.0s | val time=31.8s | max grad norm=1.926e+02
-[2026-08-22T14:24:48] Epoch 005/50 | lr=7.316e-05 | train loss=2.9038 top1=0.6100 | val loss=1.4794 top1=0.6384 top5=0.8551 | train time=16m 47.7s | val time=32.1s | max grad norm=3.858e+07
-[2026-08-22T14:41:52] Epoch 006/50 | lr=7.237e-05 | train loss=1.6161 top1=0.6172 | val loss=1.4827 top1=0.6361 top5=0.8558 | train time=16m 31.3s | val time=32.0s | max grad norm=1.516e+02
-[2026-08-22T14:58:55] Epoch 007/50 | lr=7.143e-05 | train loss=1.5976 top1=0.6203 | val loss=1.4494 top1=0.6438 top5=0.8607 | train time=16m 30.5s | val time=32.0s | max grad norm=2.767e+02
-[2026-08-22T15:24:57] Epoch 008/50 | lr=7.036e-05 | train loss=1.5808 top1=0.6241 | val loss=1.4591 top1=0.6415 top5=0.8590 | train time=25m 30.1s | val time=32.4s | max grad norm=1.400e+02
-[2026-08-22T15:50:57] Epoch 009/50 | lr=6.916e-05 | train loss=1.5602 top1=0.6282 | val loss=1.4510 top1=0.6430 top5=0.8602 | train time=25m 27.7s | val time=32.3s | max grad norm=3.990e+02
+[2026-08-22T23:31:26] NEW RUN | variant=base_e | device=cuda:0 | lr=7.500e-05 | epochs=50
+[2026-08-22T23:31:26] Trainable=5,940,294/5,940,294 (100.0000%)
