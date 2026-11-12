@@ -1,2 +1,0 @@
-[2026-08-22T23:31:26] NEW RUN | variant=base_e | device=cuda:0 | lr=7.500e-05 | epochs=50
-[2026-08-22T23:31:26] Trainable=5,940,294/5,940,294 (100.0000%)

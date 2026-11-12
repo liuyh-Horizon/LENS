@@ -1,0 +1,89 @@
+{
+  "experiment": "3_cifar10_shvit_lensmax_only_from_scratch",
+  "seeds": [
+    42,
+    886,
+    1024,
+    1991,
+    2333
+  ],
+  "results": [
+    {
+      "seed": 42,
+      "run_directory": "runs/3_cifar10_shvit_lensmax_only_from_scratch_seed42",
+      "best_epoch": 294,
+      "validation": {
+        "loss": 0.8032074044227601,
+        "accuracy": 0.8054
+      },
+      "test": {
+        "loss": 0.833587509393692,
+        "accuracy": 0.7901
+      },
+      "total_parameters": 617712,
+      "trainable_parameters": 617712
+    },
+    {
+      "seed": 886,
+      "run_directory": "runs/3_cifar10_shvit_lensmax_only_from_scratch_seed886",
+      "best_epoch": 190,
+      "validation": {
+        "loss": 0.6877289024353027,
+        "accuracy": 0.7966
+      },
+      "test": {
+        "loss": 0.7205781956672669,
+        "accuracy": 0.7811
+      },
+      "total_parameters": 617712,
+      "trainable_parameters": 617712
+    },
+    {
+      "seed": 1024,
+      "run_directory": "runs/3_cifar10_shvit_lensmax_only_from_scratch_seed1024",
+      "best_epoch": 305,
+      "validation": {
+        "loss": 0.8485365250587463,
+        "accuracy": 0.7972
+      },
+      "test": {
+        "loss": 0.877227797794342,
+        "accuracy": 0.7878
+      },
+      "total_parameters": 617712,
+      "trainable_parameters": 617712
+    },
+    {
+      "seed": 1991,
+      "run_directory": "runs/3_cifar10_shvit_lensmax_only_from_scratch_seed1991",
+      "best_epoch": 223,
+      "validation": {
+        "loss": 0.7204075517654419,
+        "accuracy": 0.7984
+      },
+      "test": {
+        "loss": 0.7276507606506347,
+        "accuracy": 0.7893
+      },
+      "total_parameters": 617712,
+      "trainable_parameters": 617712
+    },
+    {
+      "seed": 2333,
+      "run_directory": "runs/3_cifar10_shvit_lensmax_only_from_scratch_seed2333",
+      "best_epoch": 276,
+      "validation": {
+        "loss": 0.8186506643295288,
+        "accuracy": 0.792
+      },
+      "test": {
+        "loss": 0.7987393568515777,
+        "accuracy": 0.7925
+      },
+      "total_parameters": 617712,
+      "trainable_parameters": 617712
+    }
+  ],
+  "test_accuracy_mean": 0.78816,
+  "test_accuracy_std": 0.004297441099072789
+}

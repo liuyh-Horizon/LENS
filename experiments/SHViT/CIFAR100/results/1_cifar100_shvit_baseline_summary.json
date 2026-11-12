@@ -1,0 +1,89 @@
+{
+  "experiment": "1_cifar100_shvit_baseline",
+  "seeds": [
+    42,
+    886,
+    1024,
+    1991,
+    2333
+  ],
+  "results": [
+    {
+      "seed": 42,
+      "run_directory": "runs/1_cifar100_shvit_baseline_seed42",
+      "best_epoch": 300,
+      "validation": {
+        "loss": 2.3679153049468993,
+        "accuracy": 0.5156
+      },
+      "test": {
+        "loss": 2.341566665840149,
+        "accuracy": 0.5121
+      },
+      "total_parameters": 622692,
+      "trainable_parameters": 622692
+    },
+    {
+      "seed": 886,
+      "run_directory": "runs/1_cifar100_shvit_baseline_seed886",
+      "best_epoch": 253,
+      "validation": {
+        "loss": 2.259459498977661,
+        "accuracy": 0.5084
+      },
+      "test": {
+        "loss": 2.2654788461685182,
+        "accuracy": 0.5091
+      },
+      "total_parameters": 622692,
+      "trainable_parameters": 622692
+    },
+    {
+      "seed": 1024,
+      "run_directory": "runs/1_cifar100_shvit_baseline_seed1024",
+      "best_epoch": 248,
+      "validation": {
+        "loss": 2.1718514041900634,
+        "accuracy": 0.5256
+      },
+      "test": {
+        "loss": 2.164499946975708,
+        "accuracy": 0.5214
+      },
+      "total_parameters": 622692,
+      "trainable_parameters": 622692
+    },
+    {
+      "seed": 1991,
+      "run_directory": "runs/1_cifar100_shvit_baseline_seed1991",
+      "best_epoch": 308,
+      "validation": {
+        "loss": 2.4391873538970947,
+        "accuracy": 0.5142
+      },
+      "test": {
+        "loss": 2.378289461517334,
+        "accuracy": 0.507
+      },
+      "total_parameters": 622692,
+      "trainable_parameters": 622692
+    },
+    {
+      "seed": 2333,
+      "run_directory": "runs/1_cifar100_shvit_baseline_seed2333",
+      "best_epoch": 330,
+      "validation": {
+        "loss": 2.3252572566986083,
+        "accuracy": 0.5216
+      },
+      "test": {
+        "loss": 2.358988861083984,
+        "accuracy": 0.5114
+      },
+      "total_parameters": 622692,
+      "trainable_parameters": 622692
+    }
+  ],
+  "test_accuracy_mean": 0.5122,
+  "test_accuracy_std": 0.005521322305390248
+}

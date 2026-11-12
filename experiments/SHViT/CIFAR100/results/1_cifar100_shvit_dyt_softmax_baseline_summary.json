@@ -1,0 +1,56 @@
+{
+  "experiment": "1_cifar100_shvit_dyt_softmax_baseline",
+  "seeds": [
+    42
+  ],
+  "results": [
+    {
+      "seed": 42,
+      "experiment_config": {
+        "experiment": "1_cifar100_shvit_dyt_softmax_baseline",
+        "baseline_family": "dyt_softmax",
+        "baseline_norm": "dyt",
+        "baseline_attention": "softmax",
+        "rms_norm_eps": 1e-06,
+        "dyt_alpha_init": 0.5,
+        "from_pretrained": false,
+        "use_lens_norm": false,
+        "use_lens_max": false,
+        "seeds": [
+          42
+        ],
+        "device": "cuda:1",
+        "epochs": 400,
+        "learning_rate": 0.001,
+        "batch_size": 256,
+        "weight_decay": 0.05,
+        "grad_clip_norm": 1.0,
+        "image_size": 32,
+        "patch_size": 4,
+        "embed_dim": 128,
+        "depth": 3,
+        "mlp_ratio": 4.0,
+        "dropout": 0.1,
+        "attention_dropout": 0.0,
+        "validation_size": 5000,
+        "lens_norm_hidden": 32,
+        "lens_max_row_hidden": 32,
+        "lens_max_element_hidden": 16
+      },
+      "run_directory": "runs/dyt_softmax/1_cifar100_shvit_dyt_softmax_baseline_seed42",
+      "best_epoch": 323,
+      "validation": {
+        "loss": 2.4539424346923826,
+        "accuracy": 0.4668
+      },
+      "test": {
+        "loss": 2.5049792938232422,
+        "accuracy": 0.4584
+      },
+      "total_parameters": 622699,
+      "trainable_parameters": 622699
+    }
+  ],
+  "test_accuracy_mean": 0.4584,
+  "test_accuracy_std": null
+}
